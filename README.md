@@ -45,8 +45,8 @@ I am a graduate with over 4 years of experience in **content writing** and a str
 
 ## 🌐 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-1munni-black?style=for-the-badge&logo=github)](https://github.com/1munni)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Munni%20Akter-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Facebook](https://img.shields.io/badge/Facebook-Munni%20Akter-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/ZS%20Munni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Munni%20Akter-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zsmunni/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Munni%20Akter-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/zs.munni)
 
 ---
 
